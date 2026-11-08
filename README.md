@@ -1,3 +1,14 @@
+# React To-do List
+
+This project features a dynamic to-do list with add/remove/edit and filter features. 
+
+The application is broken down into 3 main components:
+  Form - For adding new tasks
+  Filter - Filter Through all, active, or completed tasks
+  Todo - Mark tasks as complete, edit them, and remove them
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
